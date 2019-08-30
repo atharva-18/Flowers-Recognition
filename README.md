@@ -7,11 +7,11 @@ Date created - 4th August 2019
 ```
 Model details
 ```
-Libraries used - TensorFlow, Keras, skimage, sklearn, ImageNet
+Libraries used - TensorFlow, Keras, skimage, sklearn
 Pretrained model used - VGG19
 Optimizer - SGD
 Loss Function - categorical_crossentropy
-Early stopping used - Yes
+Callbacks - Early stopping
 ```
 Dataset details
 ```
